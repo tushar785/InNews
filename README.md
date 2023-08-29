@@ -29,12 +29,4 @@
 - To run app, write following command in CMD. or use any IDE.
   ```
   streamlit run App.py --server.port 80
-  ```
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-
-
-## Just follow☝️ me and Star⭐ my repository 
-
-## [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal](https://www.paypal.me/spidy1820)
-## Donate me via UPI - machinelearninghubai@okhdfcbank
+  
